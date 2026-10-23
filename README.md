@@ -16,3 +16,6 @@ make
 ```sh
 sudo ./caffeinate+
 ```
+
+> [!WARNING]
+> Be careful when packing away your running MacBook, as it may overheat depending on the workload.
